@@ -138,10 +138,10 @@ const Contact = () => {
                       Oder rufen Sie uns direkt an:
                     </p>
                     <a 
-                      href="tel:015118311067" 
+                      href="tel:017641946448" 
                       className="block text-center text-primary font-semibold mt-2 hover:underline"
                     >
-                      015118311067
+                      017641946448
                     </a>
                   </div>
 
@@ -192,8 +192,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
-                          Färberstraße 54<br />
-                          90402 Nürnberg
+                          Salmstraße 2<br />
+                          52222 Stolberg
                         </p>
                       </div>
                     </div>
@@ -205,10 +205,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:015118311067" 
+                          href="tel:017641946448" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          015118311067
+                          017641946448
                         </a>
                       </div>
                     </div>
@@ -235,8 +235,8 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Öffnungszeiten</h3>
                         <ul className="text-muted-foreground space-y-1 text-sm">
-                          <li>Mo - Fr: 10:00 - 20:00</li>
-                          <li>Samstag: 10:00 - 19:00</li>
+                          <li>Mo - Fr: 9:00 - 19:00</li>
+                          <li>Samstag: 9:00 - 17:00</li>
                           <li>Sonntag: Geschlossen</li>
                         </ul>
                       </div>
